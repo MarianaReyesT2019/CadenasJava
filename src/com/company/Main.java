@@ -33,7 +33,7 @@ public class Main {
                     int tam = cadena.length();
                     System.out.println("La cadena tiene: " + tam +"letras ");
                     break;
-                case 2:
+                case 3:
                     Scanner id = new Scanner (System.in);
                     System.out.println("Ingrese la primera palabra ");
                     String pal;
